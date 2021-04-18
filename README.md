@@ -7,13 +7,16 @@ User can provide github organization and repository and can fetch issues from th
 Pagination is used to navigatre between pages
 
 ### Real world examples
-![alt text](https://github.com/Abakrii/react-native-git-hub-issue-viewer/tree/main/src/core/assets/1.png)
 
+![alt text](https://github.com/Abakrii/react-native-git-hub-issue-viewer/tree/main/src/core/assets/1.png)
+![alt text](https://github.com/[Abakrii]/[react-native-git-hub-issue-viewer]/tree/[main]/src/core/assets/1.png?raw=true)
+
+<img src="https://github.com/Abakrii/react-native-git-hub-issue-viewer/tree/main/src/core/assets/1.png?raw=true" width="240">
 <img src="https://github.com/Abakrii/react-native-git-hub-issue-viewer/tree/main/src/core/assets/2.png?raw=true" width="240">
 <img src="https://github.com/Abakrii/react-native-git-hub-issue-viewer/tree/main/src/core/assets/3.png?raw=true" width="240">
 <img src="https://github.com/Abakrii/react-native-git-hub-issue-viewer/tree/main/src/core/assets/4.png?raw=true" width="240">
 <img src="https://github.com/Abakrii/react-native-git-hub-issue-viewer/tree/main/src/core/assets/5.png?raw=true" width="240">
-<img src="https://github.com/AbdelrahmanSalemBakry111/React-Native-Awesome-Places/blob/master/gif/2018_07_26_16_45_11%5B1%5D.gif?raw=true" width="240">
+
 ===
 Technical Aspects
 

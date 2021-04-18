@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "borderColor": "#BBB",
+      "borderRadius": 10,
+      "borderStyle": "dashed",
+      "borderWidth": 1,
+      "flex": 1,
+      "flexDirection": "column",
+      "justifyContent": "space-between",
+      "marginTop": 16,
+      "padding": 16,
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "textAlign": "center",
+        "width": "70%",
+      }
+    }
+  >
+    number: 
+    1
+  </Text>
+  <Text
+    style={
+      Object {
+        "textAlign": "center",
+        "width": "70%",
+      }
+    }
+  >
+    id: 
+    112
+  </Text>
+  <Text
+    style={
+      Object {
+        "textAlign": "center",
+        "width": "70%",
+      }
+    }
+  >
+    title: 
+    render title
+  </Text>
+  <Text
+    style={
+      Object {
+        "textAlign": "center",
+        "width": "70%",
+      }
+    }
+  >
+    body: 
+    render body
+  </Text>
+</View>
+`;

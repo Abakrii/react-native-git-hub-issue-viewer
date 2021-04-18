@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<TextInput
+  allowFontScaling={true}
+  onChangeText={[Function]}
+  placeholder="Paste a link to a GitHub repo!"
+  rejectResponderTermination={true}
+  style={
+    Object {
+      "borderBottomColor": "#DDD",
+      "borderBottomWidth": 1,
+      "marginBottom": 10,
+      "paddingHorizontal": 8,
+      "paddingVertical": 6,
+    }
+  }
+  underlineColorAndroid="transparent"
+/>
+`;

@@ -10,7 +10,8 @@ import NavigationStack from './src/navigations';
 
 declare const global: {HermesInternal: null | {}};
 const App = () => {
-  const [state, dispatch] = useReducer(combinedReducers, combinedState.state);
+  const [state, dispatch] =
+    useReducer(combinedReducers, combinedState.state) || {};
   return (
     <DispatchContext.Provider value={dispatch}>
       <StateContext.Provider value={state}>

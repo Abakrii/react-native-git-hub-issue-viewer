@@ -5,7 +5,6 @@ import {RepoSearch, RepoIssues} from '../features';
 import {REPO_ISSUE} from './config';
 import {HEADER_STYLE_OBJECT} from '../core/constants/headerStyleObj';
 const Stack = createStackNavigator();
-
 const NavigationStack = () => {
   return (
     <NavigationContainer>

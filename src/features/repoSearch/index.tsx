@@ -8,7 +8,7 @@ import {SetRepoName, GetRepoIssues} from './components';
 const {searchIssueView, textError} = styles;
 
 const RepoSearch: FC = ({navigation}: any): JSX.Element => {
-  const {getIssuesState} = useContext(StateContext);
+  const {getIssuesState} = useContext(StateContext) || {};
   const {validationError, requestError, isLoading = false} =
     getIssuesState || {};
   return isLoading ? (

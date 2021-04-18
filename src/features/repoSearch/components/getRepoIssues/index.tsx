@@ -8,7 +8,7 @@ import {REPO_ISSUE} from '../../../../navigations/config';
 import {validateUrl} from '../../../../utils/methods';
 
 const GetRepoIssues: FC = ({navigation}: any): JSX.Element => {
-  const {state, getIssuesState} = useContext(StateContext);
+  const {state, getIssuesState} = useContext(StateContext) || {};
   const {repoName = ''} = state || {};
   const {issues = ''} = getIssuesState || {};
   const dispatch = useContext(DispatchContext);

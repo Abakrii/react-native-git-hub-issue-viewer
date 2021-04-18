@@ -11,7 +11,7 @@ Pagination is used to navigatre between pages
 ![alt text](https://github.com/Abakrii/react-native-git-hub-issue-viewer/tree/main/src/core/assets/1.png)
 ![alt text](https://github.com/[Abakrii]/[react-native-git-hub-issue-viewer]/tree/[main]/src/core/assets/1.png?raw=true)
 
-<img src="https://github.com/Abakrii/react-native-git-hub-issue-viewer/tree/main/src/core/assets/1.png?raw=true" width="240">
+<img src="https://github.com/Abakrii/react-native-git-hub-issue-viewer/tree/main/src/core/assets/1.jpg?raw=true" width="240">
 <img src="https://github.com/Abakrii/react-native-git-hub-issue-viewer/tree/main/src/core/assets/2.png?raw=true" width="240">
 <img src="https://github.com/Abakrii/react-native-git-hub-issue-viewer/tree/main/src/core/assets/3.png?raw=true" width="240">
 <img src="https://github.com/Abakrii/react-native-git-hub-issue-viewer/tree/main/src/core/assets/4.png?raw=true" width="240">

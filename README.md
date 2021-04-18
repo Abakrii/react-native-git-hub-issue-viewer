@@ -5,15 +5,6 @@
 Functional Applied
 User can provide github organization and repository and can fetch issues from the same rep.
 Pagination is used to navigatre between pages
-
-### Real world examples
-
-<img src="https://raw.githubusercontent.com/Abakrii/react-native-git-hub-issue-viewer/main/src/core/assets/1.jpg?raw=true" width="240">
-<img src="https://github.com/Abakrii/react-native-git-hub-issue-viewer/tree/main/src/core/assets/2.png?raw=true" width="240">
-<img src="https://github.com/Abakrii/react-native-git-hub-issue-viewer/tree/main/src/core/assets/3.png?raw=true" width="240">
-<img src="https://github.com/Abakrii/react-native-git-hub-issue-viewer/tree/main/src/core/assets/4.png?raw=true" width="240">
-<img src="https://github.com/Abakrii/react-native-git-hub-issue-viewer/tree/main/src/core/assets/5.png?raw=true" width="240">
-
 ===
 Technical Aspects
 
@@ -28,6 +19,14 @@ Technical Aspects
   -React-Navigation.
 - TypeScript used.
 - we are using axios for fetching data in the api, in static file, for sure i can user Redux-Saga, Redux-Thunk, and i can create a hook (useFetch) to call the APIs, but because the app is have only one api so i created it seprately in network file.
+
+### Real world examples
+
+<img src="https://raw.githubusercontent.com/Abakrii/react-native-git-hub-issue-viewer/main/src/core/assets/1.jpg?raw=true" width="240">
+<img src="https://raw.githubusercontent.com/Abakrii/react-native-git-hub-issue-viewer/main/src/core/assets/2.jpg?raw=true" width="240">
+<img src="https://raw.githubusercontent.com/Abakrii/react-native-git-hub-issue-viewer/main/src/core/assets/3.jpg?raw=true" width="240">
+<img src="https://raw.githubusercontent.com/Abakrii/react-native-git-hub-issue-viewer/main/src/core/assets/4.jpg?raw=true" width="240">
+<img src="https://raw.githubusercontent.com/Abakrii/react-native-git-hub-issue-viewer/main/src/core/assets/5.jpg?raw=true" width="240">
 
 ===
 Folders and file Structrue
